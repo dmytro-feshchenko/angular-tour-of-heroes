@@ -1,4 +1,5 @@
 # Tour of Heroes
+[![Build Status](https://travis-ci.org/technoboom/angular-tour-of-heroes.svg?branch=master)](https://travis-ci.org/technoboom/angular-tour-of-heroes)
 
 Implementation of tour of heroes using Angular 2
 
@@ -154,6 +155,3 @@ A custom reporter (see `protractor.config.js`) generates a  `./_test-output/prot
 which is easier to read; this file is excluded from source control.
 
 Shut it down manually with `Ctrl-C`.
-
-[travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
-[travis-badge-url]: https://travis-ci.org/angular/quickstart
