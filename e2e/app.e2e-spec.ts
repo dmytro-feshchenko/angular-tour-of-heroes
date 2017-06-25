@@ -3,7 +3,7 @@ import { browser, element, by } from 'protractor';
 describe('Hero details E2E Tests', function () {
 
   let expectedAppName = 'Tour of Heroes';
-  let expectedTitle = 'Thunderstorm details!';
+  let expectedTitle = 'My Heroes!';
 
   beforeEach(function () {
     browser.get('');
